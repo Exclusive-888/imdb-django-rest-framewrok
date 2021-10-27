@@ -3,7 +3,7 @@ use with store procedure
 # Please follow the process below to install
 1. Clone this repository (https://github.com/Exclusive-888/imdb-django-rest-framewrok.git)
 # Setting up a development virtual environment
-2.start  environment with requirements e.g. pip install -r /requirements.txt
+2.start  environment with requirements e.g. pip install -r requirements.txt
 # migrating the already defined models
 3.python manage.py migrate
 # super user create before the dummy json data be load
