@@ -10,7 +10,7 @@ use with store procedure
 4.python manage.py createsuperuser
 # loading dummy json data
 5.python manage.py loaddata data.json
-collectstatic required/need for ckeditor 
+# collectstatic required/need for ckeditor 
 6.python manage.py collectstatic
 # now Finallyy
 7. python manage.py runserver
